@@ -8,7 +8,7 @@ An online national clothing chain needs your help creating a targeted marketing 
 -Shirts,
 t-shirts,
 teans,
-tackets.
+tackets,
 bottoms,
 dL Women.
 
