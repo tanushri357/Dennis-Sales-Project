@@ -1,4 +1,4 @@
-# Dennis Sales summery report-
+# Dennis Sales Summery Report-
 
 ## Instroduction - 
 
