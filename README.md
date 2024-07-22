@@ -1,4 +1,3 @@
-
 # Dennis Sales summery report-
 
 ## Instroduction - 
